@@ -1,5 +1,6 @@
 # Adaptive Momentum Trading Strategy with Machine Learning
 This repository contains a sophisticated algorithmic trading strategy that combines momentum indicators, technical analysis, and machine learning to identify high-probability trading opportunities across multiple stocks.
+
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/a3811370-cd57-4099-93fd-3db38c5d7c45" />
 
 
